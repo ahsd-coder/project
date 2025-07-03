@@ -1,0 +1,1 @@
+项目简介：利用Bert-base-chinese模型，在A100服务器上进行炼丹，对比了不同的模型（bert,lstm,gated_cnn）在（好评差评二分类任务）中的效果。
